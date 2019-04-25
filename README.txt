@@ -1,3 +1,6 @@
+The goal of this specific implementation, which was achieved, is to have a retrieve and insert computational cost of O(1) no matter the
+size of the data as well as being able to perform actions like delete, find, and combining queries with multiple CDRs almost instantly.
+
 READ ME
 
 SysPro Assignment 1

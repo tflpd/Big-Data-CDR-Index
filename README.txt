@@ -28,7 +28,6 @@ Implementation notes:
 > dump (bonus) implemented 
 > dump gets as argument hashtable1 or hashtable2 and creates files
   dumpedHashT1.txt or dumpedHashT2.txt
-> heap is not implemented
 > -c flag (optional) not supported
 > command  exit: frees all the allocated memory and terminates the program 
   (not requested but implemented)
